@@ -1,0 +1,7 @@
+17:21:42.107 [main] INFO  resources.base - Driver is initialized
+17:21:49.712 [main] INFO  resources.base - Navigated to the Home Page
+17:22:06.502 [main] INFO  resources.base - Restricted User
+17:22:13.534 [main] INFO  resources.base - Non-Restricted User
+17:22:14.143 [main] INFO  resources.base - Successfully validated the Header -Learn Hot tools like Selenium, Appium, JMeter, SoapUI,Database Testing and more.. 
+17:22:14.236 [main] INFO  resources.base - Navigation Bar is displayed!!!
+16:58:16.329 [TestNG-tests-2] INFO  resources.base - Driver is initialized
